@@ -1,8 +1,6 @@
-Hi! I am James Duffy (he/him). I currently work as a Manager of Cloud Engineering at Accolade, Inc.
+Hey, I’m James Duffy (he/him). I’m a Manager of Cloud Engineering, where I focus on building reliable, scalable platforms for high-traffic applications.
 
-I am passionate about building scalable, reliable platforms for high-traffic applications. Living and working in San Francisco, I focus on simplifying infrastructure, optimizing tools like Kubernetes, Terraform, and Istio, and mentoring engineering teams to deliver scalable, observable, and reliable products.
-
-Most of my career has involved developing infrastructure for high-traffic websites, leading migrations to cloud-native solutions, and improving disaster recovery and system reliability. I have a strong background in Infrastructure as Code, containerization, and continuous integration pipelines.
+Living in San Francisco, I spend my days simplifying infrastructure, optimizing tools like Kubernetes and Terraform, and mentoring engineering teams to deliver observable and resilient products. My background is in cloud infrastructure, Infrastructure as Code, and containerization.
 
 My current focus includes:
 
