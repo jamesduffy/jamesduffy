@@ -1,4 +1,4 @@
-Hey, I’m James Duffy (he/him). I’m a Manager of Cloud Engineering, where I focus on building reliable, scalable platforms for high-traffic applications.
+Hey, I’m James Duffy (he/him). I have been building reliable, scalable platforms for high-traffic applications professionally since 2015.
 
 Living in San Francisco, I spend my days simplifying infrastructure, optimizing tools like Kubernetes and Terraform, and mentoring engineering teams to deliver observable and resilient products. My background is in cloud infrastructure, Infrastructure as Code, and containerization.
 
